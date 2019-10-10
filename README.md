@@ -1,5 +1,5 @@
-Mongo API
+Mongo Token API
 
-Open Source
+Open Source - Mongo Token API is developed to handle the access token and refresh token
 
 Developer - Godwin
